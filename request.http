@@ -1,0 +1,26 @@
+POST  http://localhost:3003
+Content-Type: application/json
+
+{
+    "name": "tal nome 3",
+    "description": "essa lib faz tal coisa 3",
+    "tecnologia": "nodejs",
+    "logo": "http://soacy.com/arquivos/libs/logo"
+}
+
+###
+GET http://localhost:3003
+###
+GET http://localhost:3003/4a64e40e-a486-450c-b1c9-3fe24df3ee19
+###
+GET http://localhost:3003/about
+###
+PUT http://localhost:3003/33f94177-3c80-4aba-957b-b431421286ec
+Content-Type: application/json
+
+{
+    "name": "testando ediçao",
+    "description": "essa lib faz testando ediçao",
+}
+###
+DELETE  http://localhost:3003/33f94177-3c80-4aba-957b-b431421286ec
