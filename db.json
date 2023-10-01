@@ -3,32 +3,32 @@
     "id": "98cbaa19-2185-4233-9a0b-adce368b5f8d",
     "name": "Radix UI",
     "description": "bliblioteca de componentes para seus projetos",
-    "technology": "typescript javacript",
-    "image": "LOGO",
+    "technology": ["javacript", "typescript"],
+    "image": "http://arquivos.soacy.com/logos_soacy/branca/icon.png",
     "link": "LINK"
   },
   {
     "id": "6f22bffa-0c30-4a13-a78a-38ab3d763f7d",
     "name": "Resend",
     "description": "bliblioteca de envio de emails para seus projetos",
-    "technology": "php ruby nodejs",
-    "image": "LOGO",
+    "technology": ["php", "ruby", "nodejs"],
+    "image": "http://arquivos.soacy.com/logos_soacy/branca/icon.png",
     "link": "LINK"
   },
   {
     "id": "92f564eb-2174-471d-aa13-ec43fdbd67b1",
     "name": "React Flow",
     "description": "bliblioteca de * para seus projetos",
-    "technology": "typescript javacript",
-    "image": "LOGO",
+    "technology": ["javacript", "typescript"],
+    "image": "http://arquivos.soacy.com/logos_soacy/branca/icon.png",
     "link": "LINK"
   },
   {
     "id": "80ba87fb-a192-4a02-8341-509410eee278",
     "name": "Vtex IO",
     "description": "bliblioteca de e-commerce para seus projetos",
-    "technology": "typescript javacript",
-    "image": "LOGO",
+    "technology": ["javacript", "typescript"],
+    "image": "http://arquivos.soacy.com/logos_soacy/branca/icon.png",
     "link": "LINK"
   }
 ]
