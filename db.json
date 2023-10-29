@@ -1,1 +1,74 @@
-[{"id":"d79d64b1-70d8-4d1a-9b24-4e6de5166f35","name":"Radix UI","description":"Uma biblioteca de componentes de código aberto otimizada para desenvolvimento rápido, fácil manutenção e acessibilidade.","technology":"Javascript, Typescript","image":"https://arquivos.soacy.com/libs/img/logos/radix-logo.png","link":"https://www.radix-ui.com/"},{"id":"6a922b42-93c8-454a-a89c-a0b638b2a9db","name":"Resend","description":"A melhor API para alcançar humanos em vez de pastas de spam. Crie, teste e entregue e-mails transacionais em grande escala.","technology":"Php, Ruby, NodeJs, Elixir, GO, SMTP","image":"https://arquivos.soacy.com/libs/img/logos/resend-logo.png","link":"https://resend.com/home"},{"id":"139b7eba-e740-4864-96c9-5a29e09f7920","name":"React Flow","description":"Um componente React altamente personalizável para construir editores baseados em nós e diagramas interativos","technology":"Javascript, Typescript","image":"https://arquivos.soacy.com/libs/img/logos/reack-flow-logo.png","link":"https://reactflow.dev/"},{"id":"d1388787-dced-419d-920a-167265586cdb","name":"Material UI","description":"A UI do material tem um design bonito e apresenta um conjunto de opções de personalização que facilitam","technology":"Javascript, Typescript","image":"https://arquivos.soacy.com/libs/img/logos/material-ui-logo.png","link":"https://mui.com/material-ui/"},{"id":"86a704e0-7347-45cb-868c-13446925c4b3","name":"Redux","description":"Redux é uma biblioteca JavaScript de código aberto para gerenciar o estado do aplicativo. É mais comumente usado com bibliotecas como React ou Angular para criar interfaces de usuário. ","technology":"Javascript","image":"https://arquivos.soacy.com/libs/img/logos/redux-logo.png","link":"https://react-redux.js.org/tutorials/quick-start"},{"id":"4628bf7e-eff8-4f95-9454-436d2bf6c4a0","name":"Apex Charts","description":"Explore os exemplos de gráficos React criados para mostrar alguns dos recursos atraentes incluídos no ApexCharts.\nTodos os exemplos aqui estão incluídos no código-fonte para economizar tempo de desenvolvimento.","technology":"Javascript","image":"https://arquivos.soacy.com/libs/img/logos/apex-charts-logo.png","link":"https://apexcharts.com/react-chart-demos/"},{"id":"ece2c2a0-ef96-449b-a453-f010e10154b0","name":"Zod","description":"Com Zod, você declara um validador uma vez e Zod inferirá automaticamente o tipo TypeScript estático. É fácil compor tipos mais simples em estruturas de dados complexas","technology":"Javascript, Typescript","image":"https://arquivos.soacy.com/libs/img/logos/zod-logo.png","link":"https://zod.dev/"},{"id":"c2053280-7543-4c71-b854-c84066618932","name":"cmdK","description":"K é um componente React do menu de comando que também pode ser usado como uma caixa de combinação acessível. Você renderiza itens, ele os filtra e classifica automaticamente.","technology":"Javascript, Typescript","image":"https://arquivos.soacy.com/libs/img/logos/cmdk-logo.png","link":"https://cmdk.paco.me/"}]
+[
+    {
+        "id": "d79d64b1-70d8-4d1a-9b24-4e6de5166f35",
+        "name": "Radix UI",
+        "description": "Uma biblioteca de componentes de código aberto otimizada para desenvolvimento rápido, fácil manutenção e acessibilidade.",
+        "technology": "Javascript, Typescript",
+        "image": "https://arquivos.soacy.com/libs/img/logos/radix-logo.png",
+        "link": "https://www.radix-ui.com/",
+        "type": ""
+    },
+    {
+        "id": "6a922b42-93c8-454a-a89c-a0b638b2a9db",
+        "name": "Resend",
+        "description": "A melhor API para alcançar humanos em vez de pastas de spam. Crie, teste e entregue e-mails transacionais em grande escala.",
+        "technology": "Php, Ruby, NodeJs, Elixir, GO, SMTP",
+        "image": "https://arquivos.soacy.com/libs/img/logos/resend-logo.png",
+        "link": "https://resend.com/home",
+        "type": ""
+    },
+    {
+        "id": "139b7eba-e740-4864-96c9-5a29e09f7920",
+        "name": "React Flow",
+        "description": "Um componente React altamente personalizável para construir editores baseados em nós e diagramas interativos",
+        "technology": "Javascript, Typescript",
+        "image": "https://arquivos.soacy.com/libs/img/logos/reack-flow-logo.png",
+        "link": "https://reactflow.dev/",
+        "type": ""
+    },
+    {
+        "id": "d1388787-dced-419d-920a-167265586cdb",
+        "name": "Material UI",
+        "description": "A UI do material tem um design bonito e apresenta um conjunto de opções de personalização que facilitam",
+        "technology": "Javascript, Typescript",
+        "image": "https://arquivos.soacy.com/libs/img/logos/material-ui-logo.png",
+        "link": "https://mui.com/material-ui/",
+        "type": ""
+    },
+    {
+        "id": "86a704e0-7347-45cb-868c-13446925c4b3",
+        "name": "Redux",
+        "description": "Redux é uma biblioteca JavaScript de código aberto para gerenciar o estado do aplicativo. É mais comumente usado com bibliotecas como React ou Angular para criar interfaces de usuário. ",
+        "technology": "Javascript",
+        "image": "https://arquivos.soacy.com/libs/img/logos/redux-logo.png",
+        "link": "https://react-redux.js.org/tutorials/quick-start",
+        "type": ""
+    },
+    {
+        "id": "4628bf7e-eff8-4f95-9454-436d2bf6c4a0",
+        "name": "Apex Charts",
+        "description": "Explore os exemplos de gráficos React criados para mostrar alguns dos recursos atraentes incluídos no ApexCharts.\nTodos os exemplos aqui estão incluídos no código-fonte para economizar tempo de desenvolvimento.",
+        "technology": "Javascript",
+        "image": "https://arquivos.soacy.com/libs/img/logos/apex-charts-logo.png",
+        "link": "https://apexcharts.com/react-chart-demos/",
+        "type": ""
+    },
+    {
+        "id": "ece2c2a0-ef96-449b-a453-f010e10154b0",
+        "name": "Zod",
+        "description": "Com Zod, você declara um validador uma vez e Zod inferirá automaticamente o tipo TypeScript estático. É fácil compor tipos mais simples em estruturas de dados complexas",
+        "technology": "Javascript, Typescript",
+        "image": "https://arquivos.soacy.com/libs/img/logos/zod-logo.png",
+        "link": "https://zod.dev/",
+        "type": ""
+    },
+    {
+        "id": "c2053280-7543-4c71-b854-c84066618932",
+        "name": "cmdK",
+        "description": "K é um componente React do menu de comando que também pode ser usado como uma caixa de combinação acessível. Você renderiza itens, ele os filtra e classifica automaticamente.",
+        "technology": "Javascript, Typescript",
+        "image": "https://arquivos.soacy.com/libs/img/logos/cmdk-logo.png",
+        "link": "https://cmdk.paco.me/",
+        "type": ""
+    }
+]
