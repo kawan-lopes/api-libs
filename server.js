@@ -47,14 +47,15 @@ app.get("/:id", (req, res) => {
 
 app.post("/", (req, res) => {
 
-    const { name, description, technology, image, link } = req.body;
+    const { name, description, technology, image, link, type } = req.body;
     const lib = {
     id: randomUUID(),
     name,
     description,
     technology,
     image,
-    link
+    link,
+    type
   };
   libs.push(lib);
   saveDate();
@@ -77,7 +78,7 @@ app.delete("/:id", (req, res) => {
 
 app.put('/:id', (req, res) => {
     const { id } = req.params;
-    const { name, description, technology, image, link } = req.body;
+    const { name, description, technology, image, link, type } = req.body;
     const libIndex = libs.findIndex(lib => lib.id === id);
     if(libIndex == '-1'){
         return res.status(409).json({message: "esse ID nao esta cadastrado, por favor insira um ID existente!"})
@@ -111,6 +112,12 @@ app.put('/:id', (req, res) => {
         libs[libIndex] = {
             ...libs[libIndex],
             link
+        }
+    }
+    if(type != undefined){
+        libs[libIndex] = {
+            ...libs[libIndex],
+            type
         }
     }
     console.log(libIndex)
