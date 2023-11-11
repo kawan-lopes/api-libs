@@ -6,7 +6,7 @@
         "technology": "Javascript, Typescript",
         "image": "https://arquivos.soacy.com/libs/img/logos/radix-logo.png",
         "link": "https://www.radix-ui.com/",
-        "type": ""
+        "type": "Components UI"
     },
     {
         "id": "6a922b42-93c8-454a-a89c-a0b638b2a9db",
@@ -15,7 +15,7 @@
         "technology": "Php, Ruby, NodeJs, Elixir, GO, SMTP",
         "image": "https://arquivos.soacy.com/libs/img/logos/resend-logo.png",
         "link": "https://resend.com/home",
-        "type": ""
+        "type": "E-mail"
     },
     {
         "id": "139b7eba-e740-4864-96c9-5a29e09f7920",
@@ -24,7 +24,7 @@
         "technology": "Javascript, Typescript",
         "image": "https://arquivos.soacy.com/libs/img/logos/reack-flow-logo.png",
         "link": "https://reactflow.dev/",
-        "type": ""
+        "type": "Diagramas"
     },
     {
         "id": "d1388787-dced-419d-920a-167265586cdb",
@@ -33,7 +33,7 @@
         "technology": "Javascript, Typescript",
         "image": "https://arquivos.soacy.com/libs/img/logos/material-ui-logo.png",
         "link": "https://mui.com/material-ui/",
-        "type": ""
+        "type": "Components UI"
     },
     {
         "id": "86a704e0-7347-45cb-868c-13446925c4b3",
@@ -42,7 +42,7 @@
         "technology": "Javascript",
         "image": "https://arquivos.soacy.com/libs/img/logos/redux-logo.png",
         "link": "https://react-redux.js.org/tutorials/quick-start",
-        "type": ""
+        "type": "Performace"
     },
     {
         "id": "4628bf7e-eff8-4f95-9454-436d2bf6c4a0",
@@ -51,7 +51,7 @@
         "technology": "Javascript",
         "image": "https://arquivos.soacy.com/libs/img/logos/apex-charts-logo.png",
         "link": "https://apexcharts.com/react-chart-demos/",
-        "type": ""
+        "type": "Gráficos"
     },
     {
         "id": "ece2c2a0-ef96-449b-a453-f010e10154b0",
@@ -60,7 +60,7 @@
         "technology": "Javascript, Typescript",
         "image": "https://arquivos.soacy.com/libs/img/logos/zod-logo.png",
         "link": "https://zod.dev/",
-        "type": ""
+        "type": "Formulários"
     },
     {
         "id": "c2053280-7543-4c71-b854-c84066618932",
@@ -69,6 +69,6 @@
         "technology": "Javascript, Typescript",
         "image": "https://arquivos.soacy.com/libs/img/logos/cmdk-logo.png",
         "link": "https://cmdk.paco.me/",
-        "type": ""
+        "type": "Componentes UI"
     }
 ]
