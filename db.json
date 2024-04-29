@@ -22,7 +22,7 @@
         "name": "React Flow",
         "description": "Um componente React altamente personalizável para construir editores baseados em nós e diagramas interativos",
         "technology": "Javascript, Typescript",
-        "image": "https://arquivos.soacy.com/libs/img/logos/reack-flow-logo.png",
+        "image": "https://arquivos.soacy.com/libs/img/logos/react-flow-logo.png",
         "link": "https://reactflow.dev/",
         "type": "Diagramas"
     },
@@ -40,7 +40,7 @@
         "name": "Redux",
         "description": "Redux é uma biblioteca JavaScript de código aberto para gerenciar o estado do aplicativo. É mais comumente usado com bibliotecas como React ou Angular para criar interfaces de usuário. ",
         "technology": "Javascript",
-        "image": "https://arquivos.soacy.com/libs/img/logos/redux-logo.png",
+        "image": "https://arquivos.soacy.com/libs/img/logos/redux-logo.svg",
         "link": "https://react-redux.js.org/tutorials/quick-start",
         "type": "Performace"
     },
